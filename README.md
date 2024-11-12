@@ -2,6 +2,8 @@
 
 A simple task timer built with Vue.
 
+![CleanShot 2024-11-12 at 20 22 21@2x](https://github.com/user-attachments/assets/ab5620da-4818-4a8a-b2d0-6a5700770d95)
+
 ## Project Setup
 
 ```sh
