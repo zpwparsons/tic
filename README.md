@@ -1,6 +1,6 @@
-# time-tracker
+# Tix
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple task timer built with Vue.
 
 ## Recommended IDE Setup
 
